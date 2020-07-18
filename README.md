@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilsonsilvati@gmail.com)](mailto:gilsonsilvati@gmail.com/)
 <br/>
 
-### Oi pessoALL 👋
+### Olá, pessoALL 👋
 
 <br/>Meu nome é Gilson, sou Analista Desenvolvedor.
 
